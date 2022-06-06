@@ -1,0 +1,15 @@
+/Users/austin/Desktop/C#/Fundamentals1/bin/Debug/net6.0/Fundamentals1
+/Users/austin/Desktop/C#/Fundamentals1/bin/Debug/net6.0/Fundamentals1.deps.json
+/Users/austin/Desktop/C#/Fundamentals1/bin/Debug/net6.0/Fundamentals1.runtimeconfig.json
+/Users/austin/Desktop/C#/Fundamentals1/bin/Debug/net6.0/Fundamentals1.dll
+/Users/austin/Desktop/C#/Fundamentals1/bin/Debug/net6.0/Fundamentals1.pdb
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.csproj.AssemblyReference.cache
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.AssemblyInfoInputs.cache
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.AssemblyInfo.cs
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.csproj.CoreCompileInputs.cache
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.dll
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/refint/Fundamentals1.dll
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.pdb
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/Fundamentals1.genruntimeconfig.cache
+/Users/austin/Desktop/C#/Fundamentals1/obj/Debug/net6.0/ref/Fundamentals1.dll
